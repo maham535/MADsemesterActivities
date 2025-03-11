@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "expo": "^52.0.37",
     "express": "^4.21.2"
   }
 }
